@@ -16,8 +16,8 @@ jobs:
 
       - name: Build and Test
         run: |
-          '. build.sh'
-          '[ -f ${PWD##*/}.zip ]'
+          . build.sh
+          [ -f ${PWD##*/}.zip ]
 
       - name: Create Release
         id: create_release
