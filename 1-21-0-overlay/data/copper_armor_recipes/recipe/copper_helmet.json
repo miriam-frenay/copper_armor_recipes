@@ -2,9 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "pattern": [
-    "C C",
     "CCC",
-    "CCC"
+    "C C"
   ],
   "key": {
     "C": {
@@ -12,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:chainmail_chestplate",
+    "id": "minecraft:chainmail_helmet",
     "count": 1
   }
 }

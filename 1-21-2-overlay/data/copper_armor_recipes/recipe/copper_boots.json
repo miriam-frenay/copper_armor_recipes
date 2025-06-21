@@ -3,16 +3,13 @@
   "category": "equipment",
   "pattern": [
     "C C",
-    "CCC",
-    "CCC"
+    "C C"
   ],
   "key": {
-    "C": {
-      "item": "minecraft:copper_ingot"
-    }
+    "C": "minecraft:copper_ingot"
   },
   "result": {
-    "item": "minecraft:chainmail_chestplate",
+    "id": "minecraft:chainmail_boots",
     "count": 1
   }
 }

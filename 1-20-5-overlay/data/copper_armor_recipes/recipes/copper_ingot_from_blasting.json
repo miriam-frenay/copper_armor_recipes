@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "minecraft:chainmail_boots"
+    },
+    {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    {
+      "item": "minecraft:chainmail_helmet"
+    },
+    {
+      "item": "minecraft:chainmail_leggings"
+    }
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}
